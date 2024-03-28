@@ -14,13 +14,13 @@ NUGU 스마트홈 디바이스를 제어하기 위한 비공식 API 서버입니
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/smart-home-control-api.git
+    git clone https://github.com/bsy0317/SKT-IoT-API.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd smart-home-control-api
+    cd SKT-IoT-API
     ```
 
 3. Install dependencies:
