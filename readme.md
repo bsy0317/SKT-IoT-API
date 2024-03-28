@@ -1,6 +1,6 @@
 # NUGU 스마트홈 API 서버 🏠💡
 
-NUGU 스마트홈 디바이스를 제어하기 위한 비공식 API 서버입니다.
+NUGU 스마트홈 디바이스를 제어하기 위한 비공식 API 서버입니다.  
 반디스마트스위치 BDS03B에서 테스트되었으며, 현재는 전원 제어만 지원합니다.
 
 ## Prerequisites 🛠️
@@ -44,10 +44,9 @@ pip install -r requirements.txt
 ```
 
 2.  `run_windows.bat` 스크립트를 실행합니다.
-
-    ```bash
-    run_windows.bat
-    ```
+   ```bash
+run_windows.bat
+```
 
 ### Linux 🐧
 
@@ -57,10 +56,9 @@ pip install -r requirements.txt
 ```
 
 2. `run_linux.sh` 스크립트를 실행합니다.
-
-    ```bash
-    ./run_linux.sh
-    ```
+```bash
+./run_linux.sh
+```
 
 ## Endpoints 📡
 
